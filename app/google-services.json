@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "203969221123",
+    "firebase_url": "https://dailyshoppingdiary.firebaseio.com",
+    "project_id": "dailyshoppingdiary",
+    "storage_bucket": "dailyshoppingdiary.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203969221123:android:5af1496ef5baad3c",
+        "android_client_info": {
+          "package_name": "com.example.rushikesh.dailyshoppingdiary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "203969221123-vh722l12hsa8pqjge71popp2j8k456au.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rushikesh.dailyshoppingdiary",
+            "certificate_hash": "15ead3a9027e695f46370feebc8b786593ae0b23"
+          }
+        },
+        {
+          "client_id": "203969221123-p11iv2p1nkcv7tjk2qlgrvpcd1r17hlj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJir2z474Y6-ISDVBip7UldaBmwErgU6s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "203969221123-p11iv2p1nkcv7tjk2qlgrvpcd1r17hlj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
