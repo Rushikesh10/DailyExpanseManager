@@ -1,0 +1,3 @@
+# DailyExpanseManager
+This application help you to keep track on the products that you had purchased ,their prices and total
+expenditures.
